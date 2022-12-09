@@ -28,15 +28,15 @@
 - 資料集
   - [Fashion MNIST]() 
 - 分析技術
-## 
+## Chinese MNIST
 - 資料集
-  - []() 
+  - [Chinese MNIST](https://www.kaggle.com/datasets/gpreda/chinese-mnist) 
 - 分析技術
   - []() 
   - []()
-## 
+## Titanic dataset
 - 資料集
-  - []() 
+  - [Titanic dataset](https://www.kaggle.com/datasets/brendan45774/test-file) 
 - 分析技術
   - []() 
   - []()
