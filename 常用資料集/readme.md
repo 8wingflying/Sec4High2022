@@ -22,3 +22,27 @@
 - [Boston housing dataset](https://www.kaggle.com/datasets/altavish/boston-housing-dataset)
 - 分析技術
   - [Boston Housing Data](https://www.kaggle.com/code/kirthna/boston-housing-data)
+
+
+## Fashion MNIST
+- 資料集
+  - [Fashion MNIST]() 
+- 分析技術
+## 
+- 資料集
+  - []() 
+- 分析技術
+  - []() 
+  - []()
+## 
+- 資料集
+  - []() 
+- 分析技術
+  - []() 
+  - []()
+## 
+- 資料集
+  - []() 
+- 分析技術
+  - []() 
+  - []()
