@@ -1,7 +1,15 @@
+## 乳腺癌檢測模型
+- 二元分類
+- 資料集[Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+- 分析技術
+  - [Starter: Breast Cancer Wisconsin 3bc4908e-4](https://www.kaggle.com/code/yusueframadan/starter-breast-cancer-wisconsin-3bc4908e-4)
+
 ## Pima Indians Diabetes Database印地安人糖尿病預測
+- 二元分類
 - [資料集](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - 分析技術
   - [Pima Indians Diabetes - EDA & Prediction (0.906)](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906) 
+
 ## 鳩尾花iris
 - multi-class classification
 - [iris@kaggle](https://www.kaggle.com/datasets/uciml/iris)
