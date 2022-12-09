@@ -23,17 +23,6 @@
 - 分析技術
   - [Boston Housing Data](https://www.kaggle.com/code/kirthna/boston-housing-data)
 
-
-## Fashion MNIST
-- 資料集
-  - [Fashion MNIST]() 
-- 分析技術
-## Chinese MNIST
-- 資料集
-  - [Chinese MNIST](https://www.kaggle.com/datasets/gpreda/chinese-mnist) 
-- 分析技術
-  - []() 
-  - []()
 ## Titanic dataset
 - 資料集
   - [Titanic dataset](https://www.kaggle.com/datasets/brendan45774/test-file) 
@@ -63,9 +52,57 @@
   - []() 
   - []()
 ## 20 Newsgroups Ciphertext Challenge
-- 文件分類:A collection of ~18,000 newsgroup documents from 20 different newsgroups
+- 文件分類:
 - 資料集
   - [20 Newsgroups Ciphertext Challenge](https://www.kaggle.com/competitions/20-newsgroups-ciphertext-challenge) 
 - 分析技術
   - [Encryption NLP](https://www.kaggle.com/code/acauveri/encryption-nlp) 
+  - []()
+
+## Reuters
+- 文件分類:
+- 資料集
+  - [20 Newsgroups Ciphertext Challenge](https://www.kaggle.com/competitions/20-newsgroups-ciphertext-challenge) 
+- 分析技術
+  - [Encryption NLP](https://www.kaggle.com/code/acauveri/encryption-nlp) 
+  - []()
+
+## MNIST Dataset
+- The MNIST database of handwritten digits (http://yann.lecun.com)
+- 影像分類:
+
+## Fashion MNIST
+- 影像分類:
+- 資料集
+  - [Fashion MNIST]() 
+- 分析技術
+## Chinese MNIST
+- 影像分類:
+- 資料集
+  - [Chinese MNIST](https://www.kaggle.com/datasets/gpreda/chinese-mnist) 
+- 分析技術
+  - []() 
+  - []()
+## 
+- 文件分類:
+- 資料集
+  - []() 
+- 分析技術
+  - []() 
+  - []()
+
+## 
+- 文件分類:
+- 資料集
+  - []() 
+- 分析技術
+  - []() 
+  - []()
+
+## 
+- 文件分類:
+- 資料集
+  - []() 
+- 分析技術
+  - []() 
   - []()
