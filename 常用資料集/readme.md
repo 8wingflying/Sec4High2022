@@ -1,4 +1,4 @@
-## Pima Indians Diabetes Database
+## Pima Indians Diabetes Database印地安人糖尿病預測
 - [資料集](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - 分析技術
   - [Pima Indians Diabetes - EDA & Prediction (0.906)](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906) 
