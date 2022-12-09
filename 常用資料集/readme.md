@@ -10,6 +10,25 @@
 - 分析技術
   - [Pima Indians Diabetes - EDA & Prediction (0.906)](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906) 
 
+## COVID-19  Dataset 
+- An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House
+- 分類:
+- 資料集
+  - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge) 
+  - [COVID-19 Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
+    - Number of Confirmed, Death and Recovered cases every day across the globe
+- 分析技術
+  - []() 
+  - []()
+## Lung Cancer
+- 分類:
+- 資料集
+  - [Lung Cancer](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer) 
+  - [Lung Cancer Detection](https://www.kaggle.com/datasets/jillanisofttech/lung-cancer-detection)
+- 分析技術
+  - []() 
+  - []()
+
 ## 鳩尾花iris
 - multi-class classification
 - [iris@kaggle](https://www.kaggle.com/datasets/uciml/iris)
@@ -83,21 +102,9 @@
 - 分析技術
   - []() 
   - []()
-## 
-- 文件分類:
-- 資料集
-  - []() 
-- 分析技術
-  - []() 
-  - []()
 
-## 
-- 文件分類:
-- 資料集
-  - []() 
-- 分析技術
-  - []() 
-  - []()
+
+
 
 ## 
 - 文件分類:
