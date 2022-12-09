@@ -1,4 +1,7 @@
-
+## Pima Indians Diabetes Database
+- [資料集](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- 分析技術
+  - [Pima Indians Diabetes - EDA & Prediction (0.906)](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906) 
 ## 鳩尾花iris
 - multi-class classification
 - [iris@kaggle](https://www.kaggle.com/datasets/uciml/iris)
