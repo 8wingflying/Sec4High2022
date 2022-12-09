@@ -40,6 +40,21 @@
 - 分析技術
   - [🕶 Awesome Visualization with Titanic Dataset📊](https://www.kaggle.com/code/subinium/awesome-visualization-with-titanic-dataset) 
   - []()
+
+
+## Wine Reviews
+- 資料集
+  - 130k wine reviews with variety, location, winery, price, and description
+  - [Wine Reviews](https://www.kaggle.com/datasets/zynicide/wine-reviews) 
+- 分析技術
+  - []() 
+  - []()
+## Wine Quality Dataset
+- 資料集
+  - [Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset) 
+- 分析技術
+  - []() 
+  - []()
 ## 
 - 資料集
   - []() 
