@@ -38,7 +38,7 @@
 - 資料集
   - [Titanic dataset](https://www.kaggle.com/datasets/brendan45774/test-file) 
 - 分析技術
-  - []() 
+  - [🕶 Awesome Visualization with Titanic Dataset📊](https://www.kaggle.com/code/subinium/awesome-visualization-with-titanic-dataset) 
   - []()
 ## 
 - 資料集
