@@ -55,9 +55,17 @@
 - 分析技術
   - []() 
   - []()
-## 
+## 20 Newsgroups
+- 文件分類:A collection of ~18,000 newsgroup documents from 20 different newsgroups
 - 資料集
-  - []() 
+  - [20 Newsgroups](https://www.kaggle.com/datasets/crawford/20-newsgroups) 
 - 分析技術
   - []() 
+  - []()
+## 20 Newsgroups Ciphertext Challenge
+- 文件分類:A collection of ~18,000 newsgroup documents from 20 different newsgroups
+- 資料集
+  - [20 Newsgroups Ciphertext Challenge](https://www.kaggle.com/competitions/20-newsgroups-ciphertext-challenge) 
+- 分析技術
+  - [Encryption NLP](https://www.kaggle.com/code/acauveri/encryption-nlp) 
   - []()
