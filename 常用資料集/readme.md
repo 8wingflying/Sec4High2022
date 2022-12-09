@@ -63,6 +63,22 @@
 - 分析技術
   - []() 
   - []()
+
+
+## IMDb Dataset
+- 文件分類:影評分類
+- 資料集
+  - [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+    - Large Movie Review Dataset
+  - [IMDb Dataset](https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset)
+  - [IMDB Movies Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+    - Top 1000 Movies by IMDB Rating
+  - [IMDB 50K Movie Reviews (TEST your BERT)](https://www.kaggle.com/datasets/atulanandjha/imdb-50k-movie-reviews-test-your-bert)
+    - Pytorch-nlp Movie Dataset for Language Translation Models (ULMFiT, BERT, OpenAI)
+- 分析技術
+  - []() 
+  - []()
+
 ## 20 Newsgroups
 - 文件分類:A collection of ~18,000 newsgroup documents from 20 different newsgroups
 - 資料集
@@ -70,6 +86,7 @@
 - 分析技術
   - []() 
   - []()
+
 ## 20 Newsgroups Ciphertext Challenge
 - 文件分類:
 - 資料集
@@ -78,7 +95,7 @@
   - [Encryption NLP](https://www.kaggle.com/code/acauveri/encryption-nlp) 
   - []()
 
-## Reuters
+## Reuters路透社新聞
 - 文件分類:
 - 資料集
   - [20 Newsgroups Ciphertext Challenge](https://www.kaggle.com/competitions/20-newsgroups-ciphertext-challenge) 
@@ -104,12 +121,3 @@
   - []()
 
 
-
-
-## 
-- 文件分類:
-- 資料集
-  - []() 
-- 分析技術
-  - []() 
-  - []()
